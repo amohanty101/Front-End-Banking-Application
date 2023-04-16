@@ -31,7 +31,7 @@ All Data Page Functionality
 
 
 Link to AWS Deployment: Bad Bank
-https://s3.console.aws.amazon.com/s3/buckets/anjali-mohantybankingapplication?region=us-east-1
+https://anjali-mohantybankingapplication.s3.amazonaws.com/index.html#/
 
 
 
